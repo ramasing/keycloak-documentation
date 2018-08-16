@@ -18,7 +18,7 @@ To add it manually using Maven, add the following to your dependencies:
 
 <dependency>
     <groupId>org.keycloak</groupId>
-    <artifactId>keycloak-spring-boot-starter</artifactId>
+    <artifactId>keycloak-spring-boot-2-starter</artifactId>
 </dependency>
 
 ----
